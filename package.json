@@ -1,0 +1,11 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "scripts": {
+    "cypress:run": "cypress run --project cypress"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^4.1.0"
+  }
+}
